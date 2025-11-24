@@ -62,7 +62,7 @@ The goal of this project is to uncover key insights behind customer churn, under
 ## 📬 Author
 
 👤 **Preetika**  
-📎 LinkedIn: *Add your URL here*
+📎 LinkedIn: (https://www.linkedin.com/in/preetika20/)
 
 ---
 
