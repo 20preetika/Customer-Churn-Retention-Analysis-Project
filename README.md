@@ -29,15 +29,12 @@ The goal of this project is to uncover key insights behind customer churn, under
 - Top reasons customers churn  
 
 ---
-
-## 📁 Files Included
-
-| File / Folder | Description |
-|--------------|-------------|
-| `powerbi/Customer_Churn.pbix` | Power BI Dashboard |
-| `dataset/cleaned_telco_churn.csv` | Cleaned dataset |
-| `screenshots/` | Dashboard preview images |
-| `README.md` | Project documentation |
+## 📁 Project Contents
+📁 dataset → cleaned dataset used for analysis  
+📁 notebooks → Python EDA and preprocessing  
+📁 dashboard → final Power BI report  
+📁 images → preview screenshots  
+📄 README → documentation & insights  
 
 ---
 
